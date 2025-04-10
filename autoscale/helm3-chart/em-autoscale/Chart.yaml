@@ -1,0 +1,10 @@
+annotations:
+  category: compute
+apiVersion: v2
+appVersion: "0.1"
+description: AutoScale k8s custer using Rafay's Environment Manager.
+name: em-autoscale
+type: application
+version: "0.1"
+home: https://github.com/RafaySystems/rafay-helm-charts/tree/main/charts/em-autoscale
+icon: https://rafay-partner-logos.s3.us-west-1.amazonaws.com/rafay-charts-logo.png
